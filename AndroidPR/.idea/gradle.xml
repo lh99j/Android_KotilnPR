@@ -10,9 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CH8_Event" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/ch7_layout" />
-            <option value="$PROJECT_DIR$/ch8_layout" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
