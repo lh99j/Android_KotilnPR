@@ -10,3 +10,7 @@ rootProject.name = "My Application"
 include ':app'
 include ':ch7_layout'
 include ':CH8_Event'
+include ':ch9_resource'
+include ':ch10_notification'
+include ':ch10_notification2'
+include ':ch11_practice'

@@ -12,7 +12,11 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/CH8_Event" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ch10_notification" />
+            <option value="$PROJECT_DIR$/ch10_notification2" />
+            <option value="$PROJECT_DIR$/ch11_practice" />
             <option value="$PROJECT_DIR$/ch7_layout" />
+            <option value="$PROJECT_DIR$/ch9_resource" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -3,13 +3,34 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/button_text.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout-land/activity_main3.xml" value="0.19091710758377425" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.6253087795002558" />
+        <entry key="app/src/main/res/layout/activity_main4.xml" value="0.22552083333333334" />
+        <entry key="ch10_notification/src/main/res/layout/activity_detail.xml" value="0.18161094224924013" />
+        <entry key="ch10_notification/src/main/res/layout/activity_dialog_input.xml" value="0.21145833333333333" />
+        <entry key="ch10_notification/src/main/res/layout/activity_main.xml" value="0.19375" />
+        <entry key="ch10_notification/src/main/res/layout/activity_main2.xml" value="0.28306159420289856" />
+        <entry key="ch10_notification/src/main/res/layout/activity_notification.xml" value="0.28306159420289856" />
+        <entry key="ch10_notification/src/main/res/layout/dialog_input.xml" value="0.28306159420289856" />
+        <entry key="ch10_notification2/src/main/res/layout/activity_main.xml" value="0.28306159420289856" />
+        <entry key="ch11_practice/src/main/res/layout/activity_item_main.xml" value="0.26856884057971014" />
+        <entry key="ch11_practice/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="ch11_practice/src/main/res/layout/activity_main2.xml" value="0.27807971014492755" />
+        <entry key="ch11_practice/src/main/res/layout/fragment__a.xml" value="0.19375" />
+        <entry key="ch11_practice/src/main/res/layout/fragment_onefragment.xml" value="0.19375" />
+        <entry key="ch11_practice/src/main/res/menu/menu.xml" value="0.21927083333333333" />
+        <entry key="ch11_practice/src/main/res/menu/menu_main.xml" value="0.21927083333333333" />
+        <entry key="ch11_practice/src/main/res/menu/menu_search.xml" value="0.21927083333333333" />
         <entry key="ch6_view/src/main/res/layout/activity_main.xml" value="0.31023550724637683" />
         <entry key="ch7_layout/src/main/res/layout/activity_main.xml" value="0.23761286664206488" />
         <entry key="ch8_layout/src/main/res/drawable/ic_launcher_background.xml" value="0.25" />
         <entry key="ch8_layout/src/main/res/drawable/round_button.xml" value="0.319675729628699" />
         <entry key="ch8_layout/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="ch9_resource/src/main/res/drawable/round_button.xml" value="0.24166666666666667" />
+        <entry key="ch9_resource/src/main/res/layout-land/activity_main.xml" value="0.25" />
+        <entry key="ch9_resource/src/main/res/layout/activity_main.xml" value="0.335" />
       </map>
     </option>
   </component>
