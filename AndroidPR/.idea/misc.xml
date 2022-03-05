@@ -15,11 +15,18 @@
         <entry key="ch10_notification/src/main/res/layout/activity_notification.xml" value="0.28306159420289856" />
         <entry key="ch10_notification/src/main/res/layout/dialog_input.xml" value="0.28306159420289856" />
         <entry key="ch10_notification2/src/main/res/layout/activity_main.xml" value="0.28306159420289856" />
+        <entry key="ch11_jetpack/src/main/res/layout/activity_main.xml" value="0.18792206940189315" />
+        <entry key="ch11_jetpack/src/main/res/layout/fragment_one.xml" value="0.2463768115942029" />
+        <entry key="ch11_jetpack/src/main/res/layout/item_recyclerview.xml" value="0.2463768115942029" />
+        <entry key="ch11_jetpack/src/main/res/menu/menu_main.xml" value="0.3734375" />
+        <entry key="ch11_practice/src/main/res/layout/activity_drawerlayout.xml" value="0.1" />
         <entry key="ch11_practice/src/main/res/layout/activity_item_main.xml" value="0.26856884057971014" />
         <entry key="ch11_practice/src/main/res/layout/activity_main.xml" value="0.165" />
         <entry key="ch11_practice/src/main/res/layout/activity_main2.xml" value="0.27807971014492755" />
         <entry key="ch11_practice/src/main/res/layout/fragment__a.xml" value="0.19375" />
         <entry key="ch11_practice/src/main/res/layout/fragment_onefragment.xml" value="0.19375" />
+        <entry key="ch11_practice/src/main/res/layout/fragment_three.xml" value="0.2463768115942029" />
+        <entry key="ch11_practice/src/main/res/layout/fragment_two.xml" value="0.2463768115942029" />
         <entry key="ch11_practice/src/main/res/menu/menu.xml" value="0.21927083333333333" />
         <entry key="ch11_practice/src/main/res/menu/menu_main.xml" value="0.21927083333333333" />
         <entry key="ch11_practice/src/main/res/menu/menu_search.xml" value="0.21927083333333333" />
